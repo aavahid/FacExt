@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{ED2DBB13-63BF-43AB-AD35-7CC19E8D4269}|Default">
+  <MonoDevelop.Ide.ItemProperties.FactorialExt PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="FactorialExt/Program.cs">
+    <Files>
+      <File FileName="FactorialExt/Program.cs" Line="21" Column="6" />
+      <File FileName="FactorialExt/FactorialExtension.cs" Line="12" Column="33" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FactorialExt" expanded="True">
+            <Node name="FactorialExt" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

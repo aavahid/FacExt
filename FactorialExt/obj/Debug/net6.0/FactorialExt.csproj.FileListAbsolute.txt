@@ -1,0 +1,15 @@
+/Users/vagazadee/Code/VSProjects/HomeWorks/FactorialExt/FactorialExt/obj/Debug/net6.0/FactorialExt.csproj.AssemblyReference.cache
+/Users/vagazadee/Code/VSProjects/HomeWorks/FactorialExt/FactorialExt/obj/Debug/net6.0/FactorialExt.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vagazadee/Code/VSProjects/HomeWorks/FactorialExt/FactorialExt/obj/Debug/net6.0/FactorialExt.AssemblyInfoInputs.cache
+/Users/vagazadee/Code/VSProjects/HomeWorks/FactorialExt/FactorialExt/obj/Debug/net6.0/FactorialExt.AssemblyInfo.cs
+/Users/vagazadee/Code/VSProjects/HomeWorks/FactorialExt/FactorialExt/obj/Debug/net6.0/FactorialExt.csproj.CoreCompileInputs.cache
+/Users/vagazadee/Code/VSProjects/HomeWorks/FactorialExt/FactorialExt/bin/Debug/net6.0/FactorialExt
+/Users/vagazadee/Code/VSProjects/HomeWorks/FactorialExt/FactorialExt/bin/Debug/net6.0/FactorialExt.deps.json
+/Users/vagazadee/Code/VSProjects/HomeWorks/FactorialExt/FactorialExt/bin/Debug/net6.0/FactorialExt.runtimeconfig.json
+/Users/vagazadee/Code/VSProjects/HomeWorks/FactorialExt/FactorialExt/bin/Debug/net6.0/FactorialExt.dll
+/Users/vagazadee/Code/VSProjects/HomeWorks/FactorialExt/FactorialExt/bin/Debug/net6.0/FactorialExt.pdb
+/Users/vagazadee/Code/VSProjects/HomeWorks/FactorialExt/FactorialExt/obj/Debug/net6.0/FactorialExt.dll
+/Users/vagazadee/Code/VSProjects/HomeWorks/FactorialExt/FactorialExt/obj/Debug/net6.0/refint/FactorialExt.dll
+/Users/vagazadee/Code/VSProjects/HomeWorks/FactorialExt/FactorialExt/obj/Debug/net6.0/FactorialExt.pdb
+/Users/vagazadee/Code/VSProjects/HomeWorks/FactorialExt/FactorialExt/obj/Debug/net6.0/FactorialExt.genruntimeconfig.cache
+/Users/vagazadee/Code/VSProjects/HomeWorks/FactorialExt/FactorialExt/obj/Debug/net6.0/ref/FactorialExt.dll
